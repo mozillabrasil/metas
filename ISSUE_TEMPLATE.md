@@ -6,11 +6,11 @@
 
 ## Roles:
 
-(R)esponsável:
-(A)ccountable (responsable em última instância):
-(S)uporte:
-(C)onsultado:
-(I)nformado: 
+* (R)esponsável:
+* (A)ccountable (responsable em última instância):
+* (S)uporte:
+* (C)onsultado:
+* (I)nformado: 
 
 ## Tarefas: 
 - [ ] Esta é uma tarefa individual (responsável)
