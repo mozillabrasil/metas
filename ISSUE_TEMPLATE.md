@@ -2,7 +2,7 @@
 [Descrição de uma linha] 
 
 ## Links / tarefas relacionadas: 
-[Reference meta issues and past issues] #
+[Outras issues] #
 
 ## Roles:
 
