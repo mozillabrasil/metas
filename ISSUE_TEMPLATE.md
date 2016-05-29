@@ -7,7 +7,7 @@
 ## Roles:
 
 (R)esponsável:
-(A) Responsable em última instância:
+(A)ccountable (responsable em última instância):
 (S)uporte:
 (C)onsultado:
 (I)nformado: 
